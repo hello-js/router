@@ -1,5 +1,9 @@
 # History
 
+## 7.4.1
+
+- Forked and released the module as @hello/router
+
 ## 7.4.0
 
 - Fix router.url() for multiple nested routers [#407](https://github.com/alexmingoia/koa-router/pull/407)
