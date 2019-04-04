@@ -1,5 +1,9 @@
 # History
 
+## 7.4.2
+
+- Add typescript typings to module
+
 ## 7.4.1
 
 - Forked and released the module as @hello/router
